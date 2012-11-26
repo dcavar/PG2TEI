@@ -70,6 +70,8 @@ specific environment:
 * [Description](Description.md)
 * [Adaptation](Adaptation.md)
 
+If you discover serious bugs or problems with the code, please send us a message. Thanks!
+
 
 ### License
 
