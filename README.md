@@ -57,12 +57,12 @@ a lot of descriptions of the command line usage online, see
 
 ### Configuration of the Java code
 
-Since the PG2TEI-code is a quick and dirty implementation of the conversion pipeline, with
-a very defensive coding strategy, avoiding to many complications that might improve the
+Since the PG2TEI-code is a quick and _dirty_ implementation of the conversion pipeline, with
+a very defensive coding strategy, avoiding complications that might improve the
 stability, but would cost coding time, there are some things in the code that need
 specific adaptation.  You might experience crashes and error messages for individual
 files.  We cannot avoid that. The conversion runs quite stable, and restarting the
-converter skips already available traget files.
+converter skips already available target files.
 
 Follow the instructions in these documents to set up the conversion process for your
 specific environment:
