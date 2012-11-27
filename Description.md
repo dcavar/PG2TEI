@@ -31,11 +31,18 @@ to the newly generated TEI-XML-file.
 
 ## Downloading the Project Gutenberg RDF-XML-Catalog
 
+The Project Gutenberg offers access to a machine readable catalog encoded in the RDF/XML
+format.
+
+* [Project Gutenberg Feeds](http://www.gutenberg.org/wiki/Gutenberg:Feeds)
+
 
 ## Parsing the RDF-XML-Catalog
 
 
 ## Parsing the RDF-XML for each individual book
+
+In addition to the 
 
 
 ## Generating the TEI XML Header 
